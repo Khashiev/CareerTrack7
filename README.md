@@ -1,142 +1,120 @@
-# Career track. Project 07 
+# Career track. Project 07
 
-В этом проекте ты узнаешь, как планировать карьеру после того, как выйдешь на работу, а так же выберешь конкретную должность и приступишь к планированию следующих карьерных шагов. В том числе, поймешь чем отличается мышление тех, кто видит возможности и те, кто видят ограничения, и начнешь развивать два ключевых навыка, необходимых для карьерного роста: видеть возможностями и самопрезентацию.
+In this project, you will learn how to plan your career after you start working, as well as choose a specific position and start planning your next career steps. You'll understand the difference between the mindset of those who see opportunities and those who see limitations, and you'll begin to develop two key skills needed for career advancement: to see opportunities and to present yourself.
 
-## Contents 
+## Contents
 
 1. [Chapter I](#chapter-i) \
     1.1. [Preamble](#preamble)
 2. [Chapter II](#chapter-ii) \
     2.1. [General rules](#general-rules)
 3. [Chapter III](#chapter-iii) \
-    3.1. Как планировать карьеру      
-    3.2. Когда говорить с руководителем о том, что тебе важен рост  
-    3.3. Ключевые компетенции для карьерного роста    
+    3.1. How to plan a career \
+    3.2. When to talk to a manager about your career advancement and its importance to you \
+    3.3. Key competencies for career growth
 4. [Chapter IV](#chapter-iv) 
 
-<h2 id="chapter-i" >Chapter I</h2>
+## Chapter I
 
-![Иллюстрация к проекту](misc/images/Illustration_07.jpeg)  
+![Project illustration](misc/images/Illustration_07.jpeg)
 
-<h2 id="preamble">Preamble</h2> 
+## Preamble
 
-Когда мы говорим о планировании карьеры, то сейчас этот вопрос кажется как будто слишком сложным. Как планировать, если мир за окном каждый день меняется. 
-Как планировать карьеру?
-Ты узнаешь, как планировать даже если мир меняется. т. А, т. B и т. С.
-Как двигаться в сторону своей цели?
-Что сделать, чтобы увидеть возможности внутри компании? 
-В какой момент говорить руководителю о желании расти? 
+When we talk about career planning, this question seems too complicated. How do you plan when the world outside your window is changing every day? How to plan a career? You'll learn how to plan even as the world changes. How do you move toward your goal? What do you do to see opportunities within the company? At what point do you tell your supervisor that you want to grow?
 
-Ключевые компетенции для карьерного роста: 
-Какие компетенции нужны для карьерного роста?
-Поймешь, чем отличается мышление человека, который видит возможности или видит ограничения, и как перестроить мышление. 
-Как развивать самые важные компетенции: видение возможностей и самопрезентация. 
+Key competencies for career growth: What competencies are needed for career advancement? You understand what distinguishes the thinking of a person who sees possibilities or sees limitations, and how to restructure thinking. You'll find out how to develop the most important competencies: ability to see opportunities and self-presentation.
 
-Литература:
-1. [Сам себе бренд](materials/Сам_себе_бренд.pdf) 
+References:
 
-<h2 id="chapter-ii">Chapter II</h2> 
-<h2 id="genеral-rules">Genеral rules</h2>  
+1. [Be Your Own Brand: A Breakthrough Formula for Standing Out from the Crowd by David McNally](materials/Сам_себе_бренд.pdf)
 
-1. Всю дорогу тебя будет сопровождать чувство неопределенности и острого дефицита информации - это нормально. Не забывай, что информация в репозитории и Google всегда с тобой, так же как пиры и Rocket.Chat. Общайся, ищи, опирайся на здравый смысл и не бойся ошибиться.  
-2. Будь внимателен к источникам информации: проверяй, думай, анализируй, сравнивай.   
-3. Будь внимателен к тексту задания, перечитывай по нескольку раз.   
-4. Внимательно читай примеры. В них может быть что-то, что не указано в явном виде в самом задании.  
-5. Могут встретиться несоответствия, когда что-то новое в условиях задачи или примере противоречит уже известному. Если встретилось такое — попробуй разобраться. Если не получилось — запиши вопрос в перечень открытых вопросов и найдешь ответ в процессе работы. Не оставляй открытые вопросы неразрешенными.   
-6. Если задание кажется непонятным или невыполнимым — так только кажется. Попробуй его декомпозировать. Скорее всего, отдельные части станут понятными. 
-7. На пути тебе встретятся разные задания. Такие как, помеченные звездочкой (*) — подходят для более дотошных и пытливых. Эти задания с повышенной сложностью и не обязательны к выполнению, но если ты их сделаешь, то получишь дополнительный опыт и знания.  
-8. Не пытайся обмануть систему и окружающих. Ведь, в первую очередь ты обманываешь себя.  
-9. Есть вопрос? Спроси своего соседа справа, если это не помогло — соседа слева.  
-10. Когда пользуешься чей-либо помощью, то всегда разбирайся до конца: почему, как и зачем. Иначе помощь не будет иметь смысла.  
-11. Всегда делай push только в ветку develop! Ветка master будет проигнорирована. Работай в директории src.  
-12. В твоей директории не должно быть иных файлов, кроме тех, что обозначены в заданиях.  
+## Chapter II
+## General rules
 
-<h2 id="chapter-iii">Chapter III</h2> 
+1. All along the way, you'll be accompanied by a sense of uncertainty and a severe lack of information. Don't worry: it's perfectly normal. Don't forget that the information in the repository and Google is always with you, as are the peers and Rocket.Chat. Communicate, search, use common sense and don't be afraid of mistakes.
+2. Be mindful of the sources of information: check, think, analyze, compare.
+3. Pay close attention to the text of the assignment, reread it several times.
+4. Read the examples carefully. There may be something in them that is not explicitly stated in the assignment itself.
+5. You may encounter inconsistencies when something new in a task condition or example contradicts something you already know. If you come across something like that, try to figure it out. If it doesn't work, put the question in the list of open questions, and you'll find the answer as you go along. Don't leave open questions unanswered.
+6. If a task seems incomprehensible or impossible to complete, remember that it's not true: you only see it this way. Try to deconstruct it, and certain parts will become clear.
+7. You'll encounter different tasks along the way. Those marked with an asterisk (\*) are suitable for the most meticulous and inquisitive students. These assignments are of higher difficulty and optional, but they'll help you gain additional experience and knowledge.
+8. Don't try to cheat the system and those around you. After all, you're fooling yourself first and foremost.
+9. Got a question? Ask your peers.
+10. When you resort to someone else's help, make sure you always understand why, how, and for what purpose. Otherwise, the help won't do you any good.
+11. Always _push_ only to the _develop_ branch! The _master_ branch will be ignored. Work in the _src_ directory.
+12. There should be no files in your directory other than those designated in the assignments.
 
-## Как планировать карьеру 
+## Chapter III
 
-Как планировать карьеру, если мир за окном каждый день меняется. Вдруг ты что-то запланируешь и не сможешь реализовать? Или инвестируешь время в развитие, а все равно не достигнешь целей. Стоит ли вообще планировать?  
+## How to plan a career
 
-Однозначно, да. 
-Наличие цели, к которой ты идешь многое меняет в твоей жизни:  
-- Ты будешь не просто работать, а будешь замечать движение, как ты растешь и как идешь в сторону своей цели;  
-- Тебе станет проще принимать решения в ежедневной жизни. Например, если тебе нужно выбрать, в какую задачу погрузиться плотнее, то понимание, куда ты движешься - поможет тебе принимать решения в ежедневной жизни;  
-- Те, кто имеет цель – меньше выгорают. Посмотрите видео Виктора Франкла, основателя экзистенциальной психологии. Суть которой в том, что наличие смысла влияет на то, что ты готов работать больше и легче воспринимать ситуации, когда что-то идет не так. Меньше выгорания, выше работоспособность, легче отношение к сложностям.  
-- Когда у тебя есть цель – у тебя меньше прокрастинации и выше мотивация. Если тебе стало лень, ты замечаешь, что нет сил и мотивации, убедись, что у тебя есть цель.  
+How do you plan when the world outside is changing every day? What if you plan something and can't implement it? Or you invest time in development and still don't reach your goals. Do we need to plan at all?
 
-Помнишь, ты планировал в Project 00 твою карьерную цель на 5 лет, которая основывалась на твоих желаниях и планах.
-После того, как ты проработаешь некоторое время, твоя карьерная цель может измениться и у тебя появится больше условий, которые ты можешь анализировать.
-Необходимо изучить более расширенную таблицу "Карьерной цели", к которой ты сможешь возращаться в течение всей своей карьеры.
+Definitely, yes. Having a goal that you are striving for changes a lot in your life:
 
-![Расширенная карьерная цель](misc/images/CT07.01.png)   
+- You won't just be working, but you'll notice progress, your personal growth and how you're going towards your goal;
+- You'll find it easier to make decisions in your daily life. For example, if you have to choose which task to dive more densely into, understanding where you're going will help you make decisions in your daily life;
+- Those who have a purpose are less likely to burn out. Watch a video by Viktor Frankl, the founder of logotherapy, a very famous branch of existential psychology. The essence of his main idea is that having meaning influences you to be willing to work harder and to accept situations more easily when things go wrong. Less burnout, higher performance, easier attitude to difficulties.
+- When you have a goal, you're more motivated and less likely to procrastinate. If you've gotten lazy and you notice that you lack energy and motivation, make sure you have a goal.
 
-1. Начни с определения точки А, точки здесь и сейчас. Что у тебя прямо сейчас есть в карьере.  Честно опиши, свою ситуацию прямо сейчас, даже если ты пока чем-то недоволен, напиши как есть.
-2. Точка В - твоя цель через год. Что ты хочешь, чтобы было в т. В. 
-3. Точка С - цель через 5 лет(стратегическая цель) 
-До какой должности ты можешь вырасти. Какие направления для тебя доступны в этот момент. Имей ввиду, что большинство людей склонны переоценивать свои возможности на коротком промежутке времени, например неделя - две и склонны недооценивать свои возможности на долгосрочном горизонте – год/пять лет и 10 лет. И еще одно ограничение, о котором стоит иметь ввиду. Чаще люди боятся больше своей силы, чем своих слабостей, поэтому, это нормально, что мечтать о большом страшно. 
+Remember, you planned your 5-year career goal in Project 00, which was based on your desires and plans. After you've worked for a while, your career goal may change and you'll have more conditions to analyze. You need to learn a more expanded "Career Goal" chart that you can come back to throughout your career.
 
-4. Как двигаться в сторону цели?
-Инструменты развития - это все, где ты получаешь новые знания, совершенствуешь навыки или меняешь поведение или мышление. Это может быть обучение, онлайн и офлайн курсы, программы стажировки, менторинг или наставничество.    
-- Какие ресурсы и возможности есть для роста, развития и обучения в твоей компании, об этом можно узнать у своего руководителя или представителя HR.
-- Предлагает ли компания оплачивать внешнее обучение и на каких условиях для сотрудника, об этом тоже можно узнать у HR.  
-- Есть ли в компании программа менторинга и наставничества.   
-- Есть ли коучи внешние и внутренние.  
-- И другие возможности, каждая из которых поможет тебе достичь свою цель.   
-- Узнай, какие инструменты развития есть в компании, выбери те, которые помогут тебе самым лучшим образом достичь свою цель т. В. и т. С.  
+![Expanded career goal](misc/images/CT07.01.png)
 
-## Когда говорить с руководителем о том, что тебе важен рост  
+1. Start by defining point A, the point of here and now. Think about your current career status. Honestly describe your situation right now. Even if you're not happy about something yet, write it as it is.
+2. Point B is your goal one year from now. Think about it: what do you want to accomplish at this point?
+3. Point C - goal in 5 years (strategic goal). What position you can grow to. What directions are available to you at this moment. Keep in mind that most people tend to overestimate their opportunities on a short-term horizon like a week to two and underestimate them in the long run, like a year/five/ten years. There is one more limitation to keep in mind. More often than not, people are more afraid of their strengths than their weaknesses, so it's okay to be scared to dream big.
+4. How do you move towards a goal? Development tools are anything through which you gain new knowledge, develop skills, or change behavior/thinking. This can be training, online and offline courses, internship programs, mentoring or coaching.
 
-В каждой компании есть свои правила роста и развития. Об этих правилах, возможностях и ограничениях можно узнать у HR.
+- Check with your manager or HR representative to find out what resources and opportunities are available for growth, development and training at your company
+- You can find out from HR whether the company offers to pay for external training for the employee and on what terms.
+- Find out if the company has a mentoring and coaching program, if there are external and/or internal coaches.
+- Find out if there are other opportunities to help you reach your goals.
+- Find out what development tools the company has, choose the ones that will help you best achieve your goal (points B and C).
 
-Когда говорить с руководителем о том, что тебе важен рост? 
-Чем раньше, тем лучше. Если ты только заходишь на стажировку и знакомишься с руководителем и сразу говоришь о том, что у тебя есть план расти, то можно сразу поднимать вопрос, что тебе нужно сделать, чтобы расти. На что обращать внимание, какой результат самый важный для твоего руководителя. 
-Если ты заходишь с целью – ну, как-то пройти стажировку или заходишь с целью – я хочу пройти стажировку и расти, для того, чтобы получить доступ к самым интересным задачам. Соответственно, у руководителя складывается совсем иное отношение к тебе.
+## When to talk to your supervisor about the fact that growth is important to you
 
-## Ключевые компетенции для карьерного роста 
+Every company has its own rules for growth and development. You can ask HR about these rules, opportunities and restrictions.
 
-Когда речь идет о карьерном росте, есть две ключевые компетенции, которые помогают расти, помимо того, что нужно хорошо работать и приносить результат. 
-Это две компетенции – видеть возможности и самопрезентация. 
+When do you need to talk to your supervisor about the fact that growth is important to you? The answer is simple: the sooner the better. If you just walk into an internship, meet the supervisor and immediately talk about your plan to grow, you can bring up right away what you need to do to grow, what to look out for, what is the most important outcome for your supervisor. You can do an internship for the sake of doing it, or you can set a goal to grow and get access to the most interesting tasks - it's not hard to figure out which approach is more effective. Consequently, the manager will have a completely different attitude towards you.
 
-**Компетенция - видеть возможности** 
+## Key competencies for career growth
 
-Чем отличается мышление человека, который растет, развивается, получает новую должность, от мышления человека, который не получает рост. 
-Мы все живем в условиях определенных ограничений, нам чаще всего не хватает времени, денег, людей в команде, знаний, опыта. 
-Разберем несколько примеров
+When it comes to career development, there are two key competencies that help you grow, in addition to perform well and delivering results. These are the two competencies of seeing opportunities and effectively presenting yourself (self-presentation).
 
-_Пример №1_ 
-У руководителя нет возможности дать тебе новую должность. Нет вакансии, нет бюджета. И в этот момент ты можешь уткнуться в это ограничение и ничего не делать. Жаловаться, какие несовершенные процессы в компании. 
+**Competence 1: to see the opportunities**
 
-или 
+What is the difference between the mindset of a person who grows, develops, gets a new position, and the mindset of a person who doesn't grow? We all live under certain constraints, we most often lack time, money, people, knowledge, experience. Let's look at a few examples.
 
-Ты начинаешь смотреть шире. Например смотришь, куда ты идешь, на точку С. и смотришь, какие навыки и компетенции тебе нужны? И начинаешь развивать себя и видишь возможности как тебе еще развиваться пока рост на новую должность для тебя невозможен. Чему еще поучиться. К кому сходить на менторинг или наставничество. Какие навыки развить в работе. С кем еще познакомиться. Какую кросс-функциональную сферу освоить – это и есть навык видеть возможностей. 
+_Example #1_ The manager is unable to give you a new position. No vacancy, no budget, etc. At this moment you can bump into this limitation and do nothing. You can complain about the imperfections of the company's processes or start looking at the situation from another angle.
 
-Не фокусироваться на ограничениях, а фокусироваться на том, что для тебя остается возможным в конкретной ситуации. 
+For example, you look at where you are going (to point C), and you look at what skills and competencies you need. You are starting to develop and see opportunities for growth, while promotion to a new position is currently impossible for you. You learn what else to study, who to go to for mentoring or guidance, what skills to develop at work, and who else to meet. The skill of seeing opportunities lies in understanding which cross-functional area to master.
 
-_Пример №2_ 
-Я не могу планировать карьеру, потому что я не знаю, смогу и я получить новую должность в следующем году. И поэтому ничего не буду делать. Зачем я буду стараться, если результат не гарантирован.
+You don't need to focus on limitations; you have to focus on what remains possible for you in a given situation.
 
-Или
+_Example #2_ I can't plan my career because I don't know if I can and will be able to get a new position next year, and that's why I'm not going to do anything. Why would I try if the result is not guaranteed?
 
-Я не знаю смогу ли я получить должность в следующем году, но я точно могу еще раз поставить цель с руководителем, определить ключевые компетенции, которые мне нужно развить. И даже если я не получу должность, я стану более профессиональным, более уверенным в себе, для меня станет доступно больше возможностей. 
+Or
 
-Это и есть мышление возможностей. 
+I don't know if I can get a position next year, but I can definitely set a goal with my supervisor again and identify the key competencies I need to develop. And even if I don't get a position, I will become more professional, more confident, and more opportunities will become available to me.
 
-**Вторая компетенция - это презентация твоих результатов**  
-Уметь замечать и говорить о ежедневных результатах.
-Если никто кроме тебя не знает, как хорошо ты работаешь, что является твоими результатами, и что ты растешь и выполняешь более сложные задачи, что тебе приходиться преодолевать и как ты справляешься со своими задачами - никто об этом не догадается. 
-Ты можешь рассказывать о результатах на командных митингах или на регулярных встречах с руководителем.
+That is the mindset of opportunity.
 
-Время, когда для карьерного роста было достаточно просто хорошо работать безвозвратно ушло. Если ты хочешь расти, важно уметь видеть результат своего труда и уметь о нем рассказать. 
+**Competence 2: the presentation of your results**
 
-<h2 id="chapter-iv">Chapter IV</h2>  
+The ability to notice and talk about daily results. If no one but you know how well you're doing, what your results are, and that you're growing and doing more challenging tasks, what you have to overcome and how you're doing, no one will guess it. You can talk about your results at team meetings or in regular meetings with your manager.
 
+The time when simply doing a good job was enough for career advancement is irrevocably gone. If you want to grow, it's important to be able to see the result of your work and be able to talk about it.
 
-## Exercise 00 
-### Презентуй свои результаты  
-Тебе необходимо составить и презентовать не менее пяти твоих достижений в течение обучения в "Школа 21".
+## Chapter IV
+## Exercise 00
+### Present your results
 
-## Exercise 01 
-### Построй свой план развития  
-Заполни расширенную таблицу "Карьерные цели", учитывая все материалы, которые ты изучил в течение курса.
+You need to list and present at least five of your accomplishments achieved during your time at School 21.
 
->Пожалуйста, оставь обратную связь по проекту в [форме обратной связи.](https://forms.gle/FTAZTRLAkuAzyLPLA) 
+## Exercise 01
+### Build your development plan
+
+Complete the expanded Career Goals worksheet, considering all of the material you have studied during the course.
+
+>Please leave feedback on the project in the [feedback form.](https://forms.gle/FTAZTRLAkuAzyLPLA)
